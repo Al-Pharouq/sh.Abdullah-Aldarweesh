@@ -1,0 +1,182 @@
+/* ----------------------Backgrounds---------------------- */
+.bg-1{
+    background-image:url(../img/backgrounds/back.jpg);
+    height: 125vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg-2{
+    background-image:url(../img/backgrounds/004.jpg);
+}
+.bg-3{
+    background-image:url(../img/backgrounds/005.jpg);
+    background-repeat: no-repeat;
+    background-size: cover
+}
+.bg-4{
+    background-image:url(../img/backgrounds/Rectangle\ 6.png);
+    background-repeat: no-repeat;
+    background-size: cover
+}
+.bg-5{
+    background-image:url(../img/backgrounds/004.jpg);
+}
+
+/* ----------------------------Navbar---------------------------- */
+.logo{
+    width: 5rem;
+    position: relative;
+    margin-left: 3rem;
+}
+.Rectangle_9 {
+    background-color: rgb(179, 158, 124);
+    opacity: 0.8;
+    left: 4rem;
+    top: 1.8rem;
+    height: 3rem;
+    z-index: 6;
+}
+.Rectangle_9_collaps {
+background-color: rgb(179, 158, 124);
+opacity: 1.8;
+left: 4rem;
+top: 1.8rem;
+height: 3rem;
+z-index: 6;
+}
+.ara-font{
+    font-family: 'Noto Kufi Arabic', sans-serif;
+}
+.font-padding{
+    color: aliceblue;
+    padding-right: 50px; 
+}
+#navbarNav{
+    flex-basis: 10rem;
+}
+ul.ms-auto {
+    margin-left: auto!important;
+    flex-direction: column-reverse;
+}
+
+
+/* -------------------------First division------------------------- */
+
+.Rectangle_1 {
+    background-color: rgb(34, 83, 114);
+    opacity: 0.851;
+    position: absolute;
+    left: 4%;
+    top: 23%;
+    width: 92%;
+    right: 73%;
+    z-index: 4
+}
+
+.body-logo {
+    margin: 5rem 2rem 0rem 0rem;
+    width: 15rem;
+}
+.text{
+    text-align: right;
+    color: aliceblue;
+    font-size: larger;
+    margin: 2rem 3rem 2rem 2.5rem;
+}
+.col-name{
+    width: 21rem;
+    margin-top: -1rem;
+}
+
+/* -------------------------Second division------------------------- */
+.frame{
+    margin: 1rem 0rem;
+}
+.services {
+    width: 21rem;
+    height: 6rem;
+    margin-top: 1rem;
+}
+.Background_copy {
+    background-image: url(004.jpg);
+    position: relative;
+    padding: 5rem
+}
+.Box-m {
+    width: 12rem;
+    height: 18.8rem;
+    background: url(../img/box_1.png);
+}
+.texte-s {
+    margin: 4rem 1rem;
+	direction: rtl;
+	color: aliceblue;
+	text-align: center;
+	font-family: "Emad-Diana eXtra";
+	font-size: 22px;
+	letter-spacing: 0px;
+	line-height: 37px;
+	font-weight: bold;
+}
+.Box-m img {
+	margin-top: 37px;
+}
+.s-office {
+	width: 260px;
+	height: 73px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 60px;
+}
+/* -------------------------Third division------------------------- */
+.text-blue{
+    text-align: right;
+    color: rgb(0 56 105);
+    font-size: larger;
+    margin: 4rem 0rem;
+}
+
+/* -------------------------Fourth division------------------------- */
+.contact{
+    color: white;
+    font-weight: bolder;
+    font-size: larger;
+    text-align: center
+}
+.img-contacts{
+    width: 6rem;
+    margin: -5rem 0rem 0rem 22rem;
+}
+.loca{
+    color: #b39e7c; 
+    font-size: large; 
+    font-weight: bold;
+    text-align: center;
+}
+.fax{
+    color: #b39e7c;
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+    margin: -9rem 0px 6rem -14rem;
+}
+.bottom-1 {
+    width: 41rem;
+    border-right-style: solid;
+    border-right-color: #fff;
+    border-right-width: thick;
+    height: 10rem;
+    padding-left: 26rem;
+}
+.line{
+    border-right-style: solid;
+    border-right-width: medium;
+    margin: 0 7rem 0 0;
+    border-right-color: #fff; 
+}
+/* -------------------------Fourth division------------------------- */
+.bottom{
+    color: #fff;
+    text-align: center;
+}
+
