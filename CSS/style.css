@@ -96,6 +96,9 @@ ul.ms-auto {
     width: 21rem;
     height: 6rem;
     margin-top: 1rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 .Background_copy {
     background-image: url(004.jpg);
@@ -121,6 +124,9 @@ ul.ms-auto {
 .Box-m img {
 	margin-top: 37px;
 }
+.pic{
+    margin-left: 4.5rem;
+}
 .s-office {
 	width: 260px;
 	height: 73px;
@@ -143,9 +149,9 @@ ul.ms-auto {
     font-size: larger;
     text-align: center
 }
-.img-contacts{
-    width: 6rem;
-    margin: -5rem 0rem 0rem 22rem;
+.img-contacts {
+    width: 5.5rem;
+    margin-top: 6rem;
 }
 .loca{
     color: #b39e7c; 
@@ -171,8 +177,12 @@ ul.ms-auto {
 .line{
     border-right-style: solid;
     border-right-width: medium;
-    margin: 0 7rem 0 0;
-    border-right-color: #fff; 
+    border-right-color: #fff;
+    padding-bottom: 1rem;
+    width: 73%;
+}
+div.width{
+    width: 27%;
 }
 /* -------------------------Fourth division------------------------- */
 .bottom{
